@@ -20,7 +20,7 @@ The Kaggle API Key is configured to allow seamless downloading of datasets. This
 
 *Dataset Handling:*
 
-Download: The CelebA dataset is downloaded from Kaggle. It contains 202599 photos of different celebrities. You can found it [here](https://www.kaggle.com/datasets/jessicali9530/celeba-dataset)
+Download: The CelebA dataset is downloaded from Kaggle. It contains 202599 photos of different celebrities. You can find it [here](https://www.kaggle.com/datasets/jessicali9530/celeba-dataset)
 
 ## **Data Preparation and Modeling**:
 
