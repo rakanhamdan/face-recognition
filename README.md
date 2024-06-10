@@ -17,6 +17,7 @@ Benefits: By using mixed precision, the model trains faster and more efficiently
 *Kaggle API Key Configuration*:
 
 The Kaggle API Key is configured to allow seamless downloading of datasets. This involves setting up the directory where Kaggle configuration files are stored.
+
 *Dataset Handling:*
 
 Download: The CelebA dataset is downloaded from Kaggle. It contains 202599 photos of different celebrities. You can found it [here](https://www.kaggle.com/datasets/jessicali9530/celeba-dataset)
