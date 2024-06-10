@@ -1,6 +1,6 @@
 # Face Recognition with Deep Learning
 ## **Overview**
-This notebook demonstrates a complete workflow for building a face recognition system using deep learning techniques. The system leverages transfer learning with the pre-trained EfficientNetB7 model, utilizing the CelebA dataset and TensorFlow for model training and evaluation. The model is trained on a GPU with mixed precision enabled to optimize performance. It employs a Siamese network architecture to learn facial similarities and uses Euclidean distance for face verification.
+This project demonstrates a complete workflow for building a face recognition system using deep learning techniques. The system leverages transfer learning with the pre-trained DenseNet121 model, utilizing the CelebA dataset and TensorFlow for model training and evaluation. The model is trained on a GPU with mixed precision enabled to optimize performance. It employs a Siamese network architecture to learn facial similarities and uses Euclidean distance for face verification.
 
 ## **Workflow**
 
